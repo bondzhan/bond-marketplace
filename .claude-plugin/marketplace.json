@@ -1,0 +1,25 @@
+{
+  "name": "bond-marketplace",
+  "description": "Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills",
+  "owner": {
+    "name": "bond",
+    "email": "zhan.peng@xyb2b.com"
+  },
+  "plugins": [
+    {
+      "name": "dev-browser",
+      "description": "Browser automation with persistent page state. Use when users ask to navigate websites, fill forms, take screenshots, extract web data, test web apps, or automate browser workflows.",
+      "source": "./skills/automation/dev-browser",
+      "category": "automation",
+      "author": {
+        "name": "Sawyer Hood",
+        "github": "SawyerHood"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "generated_at": "2026-04-09T07:30:00.000Z",
+    "skill_count": 1
+  }
+}
