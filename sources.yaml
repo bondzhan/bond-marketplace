@@ -1,0 +1,9 @@
+# Plugin Marketplace Sources
+# ==========================
+# This manifest defines skills in this marketplace.
+# Native skills are maintained directly in this repo.
+# External skills are synced from upstream repositories.
+
+version: 1
+
+skills: []
