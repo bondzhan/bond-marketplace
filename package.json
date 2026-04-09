@@ -1,0 +1,10 @@
+{
+  "name": "plugin-marketplace",
+  "version": "1.0.0",
+  "description": "Curated plugin marketplace for AI agents",
+  "scripts": {
+    "sync": "bash scripts/sync-external-skills.sh"
+  },
+  "keywords": ["plugins", "skills", "marketplace", "claude-code", "codex", "agents"],
+  "license": "Apache-2.0"
+}
